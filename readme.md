@@ -1,49 +1,69 @@
-# Dokumentasi
+# ChessBoard
 
-### Penjelasan
+This repository  contains a brief biography of Hosea Nainggolan,
 
-index.html berisi biografi singkat tentang Hosea, yang mencakup:
+## How To Run This Project
 
-- Perkenalan diri: Hosea tertarik dengan teknologi dan pengembangan web.
+1. Clone this repository:
 
-- Pengalaman dan keahlian: Menyebutkan keahlian seperti JavaScript, HTML, Node.js, dan CSS.
+   ```bash
+   git clone "https://github.com/HN721/fgo24-html-basic.git"
+   ```
 
-- Tujuan: Berkeinginan untuk terus belajar dan berkontribusi sebagai software engineer.
+2. Install dependencies:
 
-### Cara Menjalankan
+   ```bash
+   npm install
+   ```
 
-Download Extensions Go Live-server di VScode dan klik Go Live di bawah kanan Vscode dan index html akan ter-eksekusi
-Atau
-download Live-server lewat terminal
+3. Make sure you have installed the following dependency:
+
+   ```
+   live-server
+   ```
+
+4. Start the project with:
+
+   ```bash
+    npm run dev
+   ```
+
+5. The project will run at: http://localhost:5501
+
+---
+
+## Contributing
+
+We welcome contributions! 🚀
+
+If you would like to open a Pull Request (PR), please follow these steps:
+
+1. Fork this repository.
+
+2. Create a new branch:
 
 ```
-npm i -D live-server
+git checkout -b feature/your-feature-name
 ```
 
-### Penjelasan Kode
+3. Make your changes.
+
+4. Commit your changes with a clear message:
 
 ```
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-Tag ini memastikan tampilan halaman responsif.
-
-<meta name="description" content="Portfolio Hosea, showcasing skills and future goals.">
-
-Memberikan deskripsi tentang halaman untuk SEO
-
-<!DOCTYPE html>
-Mendefinisikan bahwa ini adalah dokumen HTML5,
-
-<h1>: Menampilkan judul "Biografi".
-
-<p>: Digunakan untuk paragraf yang menjelaskan perkenalan diri dan pengalaman.
-
-<i>: Menandai teks miring untuk penekanan.
-
-<u>: Menambahkan garis bawah pada teks.
-
-<mark>: Memberi sorotan pada teks.
-
-<ul>: Daftar yang digunakan untuk menampilkan keahlian dalam format bullet points.
-
-<strong> dan <b>: Memberi penekanan dengan teks tebal pada bagian tertentu
+git commit -m "Add: your featusre description"
+Push your branch to your fork:
 ```
+
+```
+git push origin feature/your-feature-name
+```
+
+5. Open a Pull Request (PR) to the main branch of this repository.
+
+6. Make sure your code is clean, well-tested, and consistent with the project style.
+
+7. License
+   This project is open-source and available under the MIT License.
+
+# Enjoy exploring and contributing to the Survey Application! 🎉
