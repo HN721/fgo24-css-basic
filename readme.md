@@ -1,13 +1,17 @@
 # CSS
 
-This repository contains a brief biography of Hosea Nainggolan,
+This repository contains a brief biography of Hosea Nainggolan using html and css inline,
+
+## Preview
+
+![biografy](image.png)
 
 ## How To Run This Project
 
 1. Clone this repository:
 
    ```bash
-   git clone "https://github.com/HN721/fgo24-html-basic.git"
+   git clone "https://github.com/HN721/fgo24-css-basic.git"
    ```
 
 2. Install dependencies:
