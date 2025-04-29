@@ -1,6 +1,6 @@
-# ChessBoard
+# CSS
 
-This repository  contains a brief biography of Hosea Nainggolan,
+This repository contains a brief biography of Hosea Nainggolan,
 
 ## How To Run This Project
 
